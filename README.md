@@ -22,7 +22,7 @@
 
 ## 🌟 Visão Geral
 
-O **Redragon K742B Manager** foi desenvolvido por **Duloco** para oferecer uma experiência moderna, fluida e confiável de configuração e diagnóstico para o teclado mecânico **Redragon K742B (Arlokks)**. 
+O **Redragon K742B Manager** foi desenvolvido para oferecer uma experiência moderna, fluida e confiável de configuração e diagnóstico para o teclado mecânico **Redragon K742B (Arlokks)**. 
 
 Utilizando a **API WebHID padrão do W3C**, a aplicação comunica-se diretamente com o firmware QMK/VIA do dispositivo através de relatórios Raw HID USB (Usage Page `0xFF60`), eliminando a necessidade de softwares pesados ou instaladores intrusivos.
 
