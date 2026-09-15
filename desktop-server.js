@@ -4,7 +4,7 @@ const path = require('path');
 const { exec } = require('child_process');
 
 const PORT = 3420;
-const DIST_DIR = path.join(__dirname, 'dist');
+const DIST_DIR = fs.existsSync(path.join(__dirname, 'docs')) ? path.join(__dirname, 'docs') : path.join(__dirname, 'dist');
 
 const MIME_TYPES = {
   '.html': 'text/html',
