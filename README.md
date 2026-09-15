@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/React-19-61dafb.svg?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-8-646cff.svg?logo=vite)
 ![WebHID](https://img.shields.io/badge/API-WebHID-emerald.svg)
-![Developer](https://img.shields.io/badge/Developer-Scartzeut%20Inc.-e53e3e.svg)
+![Developer](https://img.shields.io/badge/Developer-Duloco-e53e3e.svg)
 
 **Gerenciador não-oficial de código aberto para o teclado mecânico Redragon K742B (Arlokks) via WebHID & QMK.**
 
