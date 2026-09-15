@@ -1,0 +1,16 @@
+{
+  "name": "Redragon K742B Manager",
+  "short_name": "K742B Manager",
+  "description": "Gerenciador oficial para o teclado mecânico Redragon K742B (Arlokks) - Scartzeut Inc.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090c",
+  "theme_color": "#e53e3e",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
