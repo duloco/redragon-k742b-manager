@@ -149,7 +149,7 @@ k742b-app/
 
 ## 👨‍💻 Desenvolvido por
 
-Desenvolvido por **Scartzeut Inc.**
+Desenvolvido por **Duloco**
 
 ---
 
