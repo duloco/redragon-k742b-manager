@@ -8,6 +8,10 @@
 ![WebHID](https://img.shields.io/badge/API-WebHID-emerald.svg)
 ![Developer](https://img.shields.io/badge/Developer-Duloco-e53e3e.svg)
 
+<br/>
+
+[![Acessar Web App Online](https://img.shields.io/badge/Acessar%20Online-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://duloco.github.io/redragon-k742b-manager/)
+
 **Gerenciador não-oficial de código aberto para o teclado mecânico Redragon K742B (Arlokks) via WebHID & QMK.**
 
 *Configure iluminação RGB em tempo real, remapeie teclas por camadas, teste switches com anti-ghosting (NKRO) e controle o Rotary Knob diretamente pelo navegador — sem necessidade de instalar drivers proprietários.*
